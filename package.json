@@ -1,0 +1,7 @@
+{
+  "name": "upordown",
+  "dependencies": {
+    "nalgene": "^0.2.3",
+    "request": "^2.85.0"
+  }
+}

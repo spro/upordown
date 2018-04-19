@@ -1,0 +1,30 @@
+%uuu
+    still going up... %now
+    onwards and upwards, %now
+
+%ddd
+    still going down... %now
+
+%udu
+    going up after a dip, %now
+
+%dud
+    going down after a rise, %now
+
+%ddu
+    starting to go up now, %now
+
+%uud
+    starting to go down now, %now
+
+%duu
+    on the rise, %now
+
+%udd
+    on its way down, %now
+
+%now
+    currently at $current|price
+    the price is $current|price
+    right now it's at $current|price
+    it's at $current|price right now
